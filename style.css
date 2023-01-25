@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Archivo', sans-serif;
+}
+
+.logo {
+    padding: 8px;
+}
+
+.bg-light {
+    background-color: transparent !important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+}
+
+header {
+    height: 550px;
+    background-image: url('./assets/computer-g0d3db4f04_1920.jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.center {
+    justify-content: center;
+    padding: 40px;
+}
+
+.title {
+    font-weight: 400;
+}
+
+.btn-light {
+    background-color: transparent !important;
+    color: white;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
